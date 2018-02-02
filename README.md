@@ -1,4 +1,4 @@
-# hello-world
+.# hello-world
 This repository contains matlab source code to perform some gravity analysis
 The manuscript related to this code entited: 'A COMBINATION OF STABLE DOWNWARD CONTINUATION AND EDGE DETECTION APPROACHES TO DELINEATE FAULTS, VOCANIC AND INTRUSIVE ROCKS BOUNDARIES IN SULU SEA REGION'. It has been submitted to Computers & Geosciences for review.
 Authors details: Abdu Elazeem Osman Adam Ali1*, Zhan Liu, Yongliang Bai, Abdalla Gumaa Farwa, Abboud Suliman Ahmed, and Guomin Peng;
